@@ -1,2 +1,2 @@
-# DeepLearning_2022_01
+# Deep-Learning Lecture
 딥러닝 강좌 - RPA를 위한 인공지능 과정
